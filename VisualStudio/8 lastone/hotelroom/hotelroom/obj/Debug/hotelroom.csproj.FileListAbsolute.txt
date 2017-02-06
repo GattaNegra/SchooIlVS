@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\hotelroom\hotelroom\bin\Debug\hotelroom.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\hotelroom\hotelroom\obj\Debug\hotelroom.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\hotelroom\hotelroom\bin\Debug\hotelroom.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\hotelroom\hotelroom\bin\Debug\hotelroom.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\hotelroom\hotelroom\obj\Debug\hotelroom.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\hotelroom\hotelroom\obj\Debug\hotelroom.pdb

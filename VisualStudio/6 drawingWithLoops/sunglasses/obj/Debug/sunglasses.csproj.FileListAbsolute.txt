@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\sunglasses\bin\Debug\sunglasses.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\sunglasses\bin\Debug\sunglasses.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\sunglasses\bin\Debug\sunglasses.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\sunglasses\obj\Debug\sunglasses.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\sunglasses\obj\Debug\sunglasses.pdb

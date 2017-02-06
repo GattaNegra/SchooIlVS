@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\oddevenpos\bin\Debug\oddevenpos.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\oddevenpos\bin\Debug\oddevenpos.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\oddevenpos\bin\Debug\oddevenpos.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\oddevenpos\obj\Debug\oddevenpos.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\oddevenpos\obj\Debug\oddevenpos.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\oddevenpos\obj\Debug\oddevenpos.pdb

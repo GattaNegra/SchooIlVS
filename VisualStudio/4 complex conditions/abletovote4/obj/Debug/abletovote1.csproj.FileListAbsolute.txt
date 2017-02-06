@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TMP1\bin\Debug\TMP1.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TMP1\obj\Debug\TMP1.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TMP1\obj\Debug\TMP1.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\abletovote4\bin\Debug\TMP1.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\abletovote4\obj\Debug\TMP1.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\abletovote4\obj\Debug\TMP1.pdb

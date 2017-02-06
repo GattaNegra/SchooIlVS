@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\squareframe\bin\Debug\squareframe.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\squareframe\bin\Debug\squareframe.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\squareframe\bin\Debug\squareframe.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\squareframe\obj\Debug\squareframe.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\squareframe\obj\Debug\squareframe.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\squareframe\obj\Debug\squareframe.csprojResolveAssemblyReference.cache

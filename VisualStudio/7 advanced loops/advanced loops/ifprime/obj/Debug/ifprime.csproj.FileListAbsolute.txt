@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\ifprime\bin\Debug\ifprime.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\ifprime\bin\Debug\ifprime.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\ifprime\bin\Debug\ifprime.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\ifprime\obj\Debug\ifprime.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\ifprime\obj\Debug\ifprime.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\ifprime\obj\Debug\ifprime.pdb

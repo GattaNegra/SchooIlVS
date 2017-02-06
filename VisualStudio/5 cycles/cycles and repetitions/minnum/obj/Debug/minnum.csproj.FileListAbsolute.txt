@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\minnum\bin\Debug\minnum.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\minnum\bin\Debug\minnum.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\minnum\bin\Debug\minnum.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\minnum\obj\Debug\minnum.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\minnum\obj\Debug\minnum.pdb

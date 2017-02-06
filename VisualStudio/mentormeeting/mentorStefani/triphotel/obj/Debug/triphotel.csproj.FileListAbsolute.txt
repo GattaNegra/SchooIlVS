@@ -1,0 +1,2 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\mentormeeting\mentorStefani\triphotel\bin\Debug\triphotel.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\mentormeeting\mentorStefani\triphotel\obj\Debug\triphotel.csprojResolveAssemblyReference.cache

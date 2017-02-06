@@ -1,0 +1,9 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\GUIConverter1\bin\Debug\GUIConverter1.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\GUIConverter1\obj\Debug\GUIConverter1.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\GUIConverter1\obj\Debug\GUIConverter1.Properties.Resources.resources
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\GUIConverter1\obj\Debug\GUIConverter1.csproj.GenerateResource.Cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\GUIConverter1\obj\Debug\GUIConverter1.guiconverter1.resources
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\GUIConverter1\bin\Debug\GUIConverter1.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\GUIConverter1\bin\Debug\GUIConverter1.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\GUIConverter1\obj\Debug\GUIConverter1.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\GUIConverter1\obj\Debug\GUIConverter1.pdb

@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\CurrencyCalculator2\bin\Debug\CurrencyCalculator2.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\CurrencyCalculator2\obj\Debug\CurrencyCalculator2.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\CurrencyCalculator2\bin\Debug\CurrencyCalculator2.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\CurrencyCalculator2\bin\Debug\CurrencyCalculator2.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\CurrencyCalculator2\obj\Debug\CurrencyCalculator2.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\CurrencyCalculator2\obj\Debug\CurrencyCalculator2.pdb

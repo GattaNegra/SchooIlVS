@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\squareofstars\bin\Debug\squareofstars.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\squareofstars\bin\Debug\squareofstars.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\squareofstars\bin\Debug\squareofstars.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\squareofstars\obj\Debug\squareofstars.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\squareofstars\obj\Debug\squareofstars.pdb

@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\triangleof55stars\bin\Debug\triangleof55stars.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\triangleof55stars\bin\Debug\triangleof55stars.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\triangleof55stars\bin\Debug\triangleof55stars.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\triangleof55stars\obj\Debug\triangleof55stars.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\triangleof55stars\obj\Debug\triangleof55stars.pdb

@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\GreaterNumber\obj\Debug\GreaterNumber.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\GreaterNumber\bin\Debug\GreaterNumber.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\GreaterNumber\bin\Debug\GreaterNumber.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\GreaterNumber\obj\Debug\GreaterNumber.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\GreaterNumber\obj\Debug\GreaterNumber.pdb

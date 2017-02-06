@@ -1,0 +1,9 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\ageandgenderaddress\bin\Debug\ageandgenderaddress.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\ageandgenderaddress\obj\Debug\ageandgenderaddress.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\ageandgenderaddress\bin\Debug\ageandgenderaddress.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\ageandgenderaddress\bin\Debug\ageandgenderaddress.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\ageandgenderaddress\obj\Debug\ageandgenderaddress.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\ageandgenderaddress\obj\Debug\ageandgenderaddress.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\ageandgenderaddress\bin\Debug\ageandgenderaddress.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\ageandgenderaddress\obj\Debug\ageandgenderaddress.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\ageandgenderaddress\obj\Debug\ageandgenderaddress.pdb

@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\TriangleF\bin\Debug\TriangleF.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\TriangleF\bin\Debug\TriangleF.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\TriangleF\bin\Debug\TriangleF.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\TriangleF\obj\Debug\TriangleF.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\TriangleF\obj\Debug\TriangleF.pdb

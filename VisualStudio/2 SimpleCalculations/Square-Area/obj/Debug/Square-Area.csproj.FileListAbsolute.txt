@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Square-Area\bin\Debug\Square-Area.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Square-Area\bin\Debug\Square-Area.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Square-Area\bin\Debug\Square-Area.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Square-Area\obj\Debug\Square-Area.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Square-Area\obj\Debug\Square-Area.pdb

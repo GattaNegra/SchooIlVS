@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\mentormeeting\mentorStefani\axe\bin\Debug\axe.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\mentormeeting\mentorStefani\axe\obj\Debug\axe.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\mentormeeting\mentorStefani\axe\bin\Debug\axe.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\mentormeeting\mentorStefani\axe\bin\Debug\axe.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\mentormeeting\mentorStefani\axe\obj\Debug\axe.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\mentormeeting\mentorStefani\axe\obj\Debug\axe.pdb

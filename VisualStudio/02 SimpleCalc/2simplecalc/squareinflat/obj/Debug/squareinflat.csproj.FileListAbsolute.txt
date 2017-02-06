@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\squareinflat\bin\Debug\squareinflat.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\squareinflat\bin\Debug\squareinflat.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\squareinflat\bin\Debug\squareinflat.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\squareinflat\obj\Debug\squareinflat.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\squareinflat\obj\Debug\squareinflat.pdb
