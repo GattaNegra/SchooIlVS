@@ -17,7 +17,7 @@ namespace catfood
 			Console.WriteLine ("How many times per day?");
 			var feedingsPerDay = int.Parse(Console.ReadLine ());
 			var time = Math.Round(servings / feedingsPerDay);
-			Console.WriteLine("Cats: {0} \nPackage: {1} \nRation: {2} grams \nServings: {3} \nWill last {4} days",cats,amount/1000,ration,servings,time);
+			Console.WriteLine("Cats: {0} \nFood Package: {1} \nRation: {2} grams \nServings: {3} \nWill last {4} days",cats,amount/1000,ration,servings,time);
 
 
 		}
