@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="catfood/catfood.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="catfood/Program.cs">
+    <Files>
+      <File FileName="catfood/Program.cs" Line="20" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/gattanegra/SchooIlVS/SchooIlVS/VisualStudio/099mytr/catfood1/catfood/Program.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

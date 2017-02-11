@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SquareofStars\SquareofStars\bin\Debug\SquareofStars.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SquareofStars\SquareofStars\bin\Debug\SquareofStars.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SquareofStars\SquareofStars\bin\Debug\SquareofStars.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SquareofStars\SquareofStars\obj\Debug\SquareofStars.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SquareofStars\SquareofStars\obj\Debug\SquareofStars.pdb

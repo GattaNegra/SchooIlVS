@@ -1,0 +1,5 @@
+/home/gattanegra/SchooIlVS/SchooIlVS/VisualStudio/03_extended_solutions/sex_and_gender/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gattanegra/SchooIlVS/SchooIlVS/VisualStudio/03_extended_solutions/sex_and_gender/bin/Debug/sex_and_gender.exe.mdb
+/home/gattanegra/SchooIlVS/SchooIlVS/VisualStudio/03_extended_solutions/sex_and_gender/bin/Debug/sex_and_gender.exe
+/home/gattanegra/SchooIlVS/SchooIlVS/VisualStudio/03_extended_solutions/sex_and_gender/obj/x86/Debug/sex_and_gender.exe
+/home/gattanegra/SchooIlVS/SchooIlVS/VisualStudio/03_extended_solutions/sex_and_gender/obj/x86/Debug/sex_and_gender.exe.mdb

@@ -1,0 +1,1 @@
+/home/gattanegra/SchooIlVS/SchooIlVS/VisualStudio/099mytr/catfood1/catfood/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
