@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\lastone\woo\bin\Debug\woo.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\lastone\woo\bin\Debug\woo.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\lastone\woo\bin\Debug\woo.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\lastone\woo\obj\Debug\woo.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\lastone\woo\obj\Debug\woo.pdb

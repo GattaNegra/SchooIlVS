@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\sumnum\bin\Debug\sumnum.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\sumnum\bin\Debug\sumnum.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\sumnum\bin\Debug\sumnum.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\sumnum\obj\Debug\sumnum.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\sumnum\obj\Debug\sumnum.pdb

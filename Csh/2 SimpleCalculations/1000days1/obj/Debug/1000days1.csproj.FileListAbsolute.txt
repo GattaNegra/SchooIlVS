@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\1000days1\bin\Debug\1000days1.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\1000days1\bin\Debug\1000days1.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\1000days1\bin\Debug\1000days1.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\1000days1\obj\Debug\1000days1.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\1000days1\obj\Debug\1000days1.pdb

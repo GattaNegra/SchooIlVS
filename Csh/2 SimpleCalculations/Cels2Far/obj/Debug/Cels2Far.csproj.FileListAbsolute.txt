@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Cels2Far\bin\Debug\Cels2Far.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Cels2Far\bin\Debug\Cels2Far.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Cels2Far\bin\Debug\Cels2Far.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Cels2Far\obj\Debug\Cels2Far.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Cels2Far\obj\Debug\Cels2Far.pdb

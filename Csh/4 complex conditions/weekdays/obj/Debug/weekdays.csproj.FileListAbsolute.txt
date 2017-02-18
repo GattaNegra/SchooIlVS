@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\weekdays\bin\Debug\weekdays.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\weekdays\bin\Debug\weekdays.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\weekdays\bin\Debug\weekdays.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\weekdays\obj\Debug\weekdays.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\weekdays\obj\Debug\weekdays.pdb

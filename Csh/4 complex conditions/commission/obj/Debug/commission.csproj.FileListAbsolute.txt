@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\commission\bin\Debug\commission.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\commission\obj\Debug\commission.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\commission\bin\Debug\commission.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\commission\bin\Debug\commission.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\commission\obj\Debug\commission.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\commission\obj\Debug\commission.pdb

@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\inchtocm\inchtocm\bin\Debug\inchtocm.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\inchtocm\inchtocm\bin\Debug\inchtocm.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\inchtocm\inchtocm\bin\Debug\inchtocm.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\inchtocm\inchtocm\obj\Debug\inchtocm.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\inchtocm\inchtocm\obj\Debug\inchtocm.pdb

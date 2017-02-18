@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\choco\bin\Debug\choco.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\choco\bin\Debug\choco.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\choco\bin\Debug\choco.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\choco\obj\Debug\choco.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\choco\obj\Debug\choco.pdb

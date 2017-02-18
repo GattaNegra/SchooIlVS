@@ -1,0 +1,8 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\abletovote3\bin\Debug\abletovote3.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\abletovote3\bin\Debug\abletovote3.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\abletovote3\bin\Debug\abletovote3.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\abletovote3\obj\Debug\abletovote3.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\abletovote3\obj\Debug\abletovote3.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\abletovote3\bin\Debug\abletovote3.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\abletovote3\obj\Debug\abletovote3.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\abletovote3\obj\Debug\abletovote3.pdb

@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\usd2bgn\bin\Debug\usd2bgn.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\usd2bgn\bin\Debug\usd2bgn.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\usd2bgn\bin\Debug\usd2bgn.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\usd2bgn\obj\Debug\usd2bgn.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\usd2bgn\obj\Debug\usd2bgn.pdb

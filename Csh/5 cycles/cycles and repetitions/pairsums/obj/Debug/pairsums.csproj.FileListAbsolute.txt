@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\pairsums\bin\Debug\pairsums.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\pairsums\bin\Debug\pairsums.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\pairsums\bin\Debug\pairsums.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\pairsums\obj\Debug\pairsums.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\pairsums\obj\Debug\pairsums.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\pairsums\obj\Debug\pairsums.csprojResolveAssemblyReference.cache

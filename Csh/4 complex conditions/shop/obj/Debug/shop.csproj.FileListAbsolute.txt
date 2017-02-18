@@ -1,0 +1,9 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\shop\bin\Debug\shop.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\shop\obj\Debug\shop.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\shop\bin\Debug\shop.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\shop\bin\Debug\shop.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\shop\obj\Debug\shop.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\shop\obj\Debug\shop.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\shop\bin\Debug\shop.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\shop\obj\Debug\shop.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\shop\obj\Debug\shop.pdb

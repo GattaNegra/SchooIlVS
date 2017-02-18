@@ -1,0 +1,6 @@
+/home/gattanegra/SchooIlVS/SchooIlVS/VisualStudio/099 mytr/catfood1/catfood/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gattanegra/SchooIlVS/SchooIlVS/VisualStudio/099mytr/catfood1/catfood/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gattanegra/SchooIlVS/SchooIlVS/VisualStudio/099mytr/catfood1/catfood/bin/Debug/catfood.exe.mdb
+/home/gattanegra/SchooIlVS/SchooIlVS/VisualStudio/099mytr/catfood1/catfood/bin/Debug/catfood.exe
+/home/gattanegra/SchooIlVS/SchooIlVS/VisualStudio/099mytr/catfood1/catfood/obj/x86/Debug/catfood.exe
+/home/gattanegra/SchooIlVS/SchooIlVS/VisualStudio/099mytr/catfood1/catfood/obj/x86/Debug/catfood.exe.mdb

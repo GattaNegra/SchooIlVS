@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\rectanglearea1\rectanglearea1\bin\Debug\rectanglearea1.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\rectanglearea1\rectanglearea1\bin\Debug\rectanglearea1.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\rectanglearea1\rectanglearea1\bin\Debug\rectanglearea1.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\rectanglearea1\rectanglearea1\obj\Debug\rectanglearea1.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\rectanglearea1\rectanglearea1\obj\Debug\rectanglearea1.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\rectanglearea1\rectanglearea1\obj\Debug\rectanglearea1.pdb

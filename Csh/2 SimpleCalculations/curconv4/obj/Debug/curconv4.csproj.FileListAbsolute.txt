@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\curconv4\bin\Debug\curconv4.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\curconv4\bin\Debug\curconv4.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\curconv4\bin\Debug\curconv4.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\curconv4\obj\Debug\curconv4.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\curconv4\obj\Debug\curconv4.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\curconv4\obj\Debug\curconv4.pdb

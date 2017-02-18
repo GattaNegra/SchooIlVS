@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\CircleAreaandPerimeter\bin\Debug\CircleAreaandPerimeter.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\CircleAreaandPerimeter\bin\Debug\CircleAreaandPerimeter.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\CircleAreaandPerimeter\bin\Debug\CircleAreaandPerimeter.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\CircleAreaandPerimeter\obj\Debug\CircleAreaandPerimeter.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\CircleAreaandPerimeter\obj\Debug\CircleAreaandPerimeter.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\CircleAreaandPerimeter\obj\Debug\CircleAreaandPerimeter.csprojResolveAssemblyReference.cache

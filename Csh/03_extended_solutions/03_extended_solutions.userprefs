@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="sex_and_gender/sex_and_gender.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sex_and_gender/Program.cs">
+    <Files>
+      <File FileName="sex_and_gender/Program.cs" Line="23" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

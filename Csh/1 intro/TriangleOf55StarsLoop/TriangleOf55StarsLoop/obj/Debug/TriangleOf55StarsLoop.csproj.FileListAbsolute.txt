@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsLoop\TriangleOf55StarsLoop\bin\Debug\TriangleOf55StarsLoop.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsLoop\TriangleOf55StarsLoop\bin\Debug\TriangleOf55StarsLoop.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsLoop\TriangleOf55StarsLoop\bin\Debug\TriangleOf55StarsLoop.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsLoop\TriangleOf55StarsLoop\obj\Debug\TriangleOf55StarsLoop.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsLoop\TriangleOf55StarsLoop\obj\Debug\TriangleOf55StarsLoop.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsLoop\TriangleOf55StarsLoop\obj\Debug\TriangleOf55StarsLoop.csprojResolveAssemblyReference.cache

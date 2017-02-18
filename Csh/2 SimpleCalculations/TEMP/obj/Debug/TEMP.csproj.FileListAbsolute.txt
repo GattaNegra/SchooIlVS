@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\TEMP\bin\Debug\TEMP.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\TEMP\bin\Debug\TEMP.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\TEMP\bin\Debug\TEMP.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\TEMP\obj\Debug\TEMP.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\TEMP\obj\Debug\TEMP.pdb

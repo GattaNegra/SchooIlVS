@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\mentormeeting\mentorStefani\одй\bin\Debug\одй.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\mentormeeting\mentorStefani\одй\bin\Debug\одй.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\mentormeeting\mentorStefani\одй\bin\Debug\одй.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\mentormeeting\mentorStefani\одй\obj\Debug\одй.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\mentormeeting\mentorStefani\одй\obj\Debug\одй.pdb
