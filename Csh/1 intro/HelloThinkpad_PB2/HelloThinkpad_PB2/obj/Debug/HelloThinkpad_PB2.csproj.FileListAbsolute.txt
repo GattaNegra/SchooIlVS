@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 C:\Users\gattanegra\Dropbox\School\VisualStudio\HelloThinkpad_PB2\HelloThinkpad_PB2\bin\Debug\HelloThinkpad_PB2.exe.config
 C:\Users\gattanegra\Dropbox\School\VisualStudio\HelloThinkpad_PB2\HelloThinkpad_PB2\bin\Debug\HelloThinkpad_PB2.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\HelloThinkpad_PB2\HelloThinkpad_PB2\bin\Debug\HelloThinkpad_PB2.pdb
 C:\Users\gattanegra\Dropbox\School\VisualStudio\HelloThinkpad_PB2\HelloThinkpad_PB2\obj\Debug\HelloThinkpad_PB2.csprojResolveAssemblyReference.cache
 C:\Users\gattanegra\Dropbox\School\VisualStudio\HelloThinkpad_PB2\HelloThinkpad_PB2\obj\Debug\HelloThinkpad_PB2.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\HelloThinkpad_PB2\HelloThinkpad_PB2\obj\Debug\HelloThinkpad_PB2.pdb
+=======
+C:\Users\gattanegra\Dropbox\School\VisualStudio\HelloThinkpad_PB2\HelloThinkpad_PB2\bin\Debug\HelloThinkpad_PB2.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\HelloThinkpad_PB2\HelloThinkpad_PB2\bin\Debug\HelloThinkpad_PB2.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\HelloThinkpad_PB2\HelloThinkpad_PB2\bin\Debug\HelloThinkpad_PB2.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\HelloThinkpad_PB2\HelloThinkpad_PB2\obj\Debug\HelloThinkpad_PB2.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\HelloThinkpad_PB2\HelloThinkpad_PB2\obj\Debug\HelloThinkpad_PB2.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\HelloThinkpad_PB2\HelloThinkpad_PB2\obj\Debug\HelloThinkpad_PB2.pdb
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99

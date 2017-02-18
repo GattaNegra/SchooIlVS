@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\pointOnRectangleBorder\bin\Debug\pointOnRectangleBorder.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\pointOnRectangleBorder\bin\Debug\pointOnRectangleBorder.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\pointOnRectangleBorder\bin\Debug\pointOnRectangleBorder.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\pointOnRectangleBorder\obj\Debug\pointOnRectangleBorder.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\pointOnRectangleBorder\obj\Debug\pointOnRectangleBorder.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\pointOnRectangleBorder\obj\Debug\pointOnRectangleBorder.csprojResolveAssemblyReference.cache

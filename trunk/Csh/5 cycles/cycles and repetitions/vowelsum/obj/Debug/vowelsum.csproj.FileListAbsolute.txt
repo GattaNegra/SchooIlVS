@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\vowelsum\bin\Debug\vowelsum.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\vowelsum\bin\Debug\vowelsum.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\vowelsum\bin\Debug\vowelsum.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\vowelsum\obj\Debug\vowelsum.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\vowelsum\obj\Debug\vowelsum.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\cycles and repetitions\vowelsum\obj\Debug\vowelsum.csprojResolveAssemblyReference.cache

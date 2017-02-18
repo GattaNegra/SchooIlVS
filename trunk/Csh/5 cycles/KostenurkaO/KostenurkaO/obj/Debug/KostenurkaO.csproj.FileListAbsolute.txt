@@ -1,0 +1,10 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\KostenurkaO\KostenurkaO\bin\Debug\KostenurkaO.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\KostenurkaO\KostenurkaO\obj\Debug\KostenurkaO.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\KostenurkaO\KostenurkaO\obj\Debug\KostenurkaO.Form1.resources
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\KostenurkaO\KostenurkaO\obj\Debug\KostenurkaO.Properties.Resources.resources
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\KostenurkaO\KostenurkaO\obj\Debug\KostenurkaO.csproj.GenerateResource.Cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\KostenurkaO\KostenurkaO\bin\Debug\KostenurkaO.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\KostenurkaO\KostenurkaO\bin\Debug\KostenurkaO.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\KostenurkaO\KostenurkaO\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\KostenurkaO\KostenurkaO\obj\Debug\KostenurkaO.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\5 cycles\KostenurkaO\KostenurkaO\obj\Debug\KostenurkaO.pdb

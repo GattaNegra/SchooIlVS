@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\squarestarsNS\squarestarsNS\bin\Debug\squarestarsNS.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\squarestarsNS\squarestarsNS\obj\Debug\squarestarsNS.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\squarestarsNS\squarestarsNS\bin\Debug\squarestarsNS.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\squarestarsNS\squarestarsNS\bin\Debug\squarestarsNS.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\squarestarsNS\squarestarsNS\obj\Debug\squarestarsNS.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\squarestarsNS\squarestarsNS\obj\Debug\squarestarsNS.pdb

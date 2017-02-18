@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\kashtichka\bin\Debug\kashtichka.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\kashtichka\bin\Debug\kashtichka.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\kashtichka\bin\Debug\kashtichka.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\kashtichka\obj\Debug\kashtichka.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\kashtichka\obj\Debug\kashtichka.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\6 drawingWithLoops\kashtichka\obj\Debug\kashtichka.pdb

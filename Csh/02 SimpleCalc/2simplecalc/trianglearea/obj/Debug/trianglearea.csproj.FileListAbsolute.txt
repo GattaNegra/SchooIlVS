@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\trianglearea\bin\Debug\trianglearea.exe.config
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\trianglearea\bin\Debug\trianglearea.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\trianglearea\bin\Debug\trianglearea.pdb
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\trianglearea\obj\Debug\trianglearea.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\trianglearea\obj\Debug\trianglearea.pdb
+=======
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\trianglearea\bin\Debug\trianglearea.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\trianglearea\bin\Debug\trianglearea.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\trianglearea\bin\Debug\trianglearea.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\trianglearea\obj\Debug\trianglearea.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\trianglearea\obj\Debug\trianglearea.pdb
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99

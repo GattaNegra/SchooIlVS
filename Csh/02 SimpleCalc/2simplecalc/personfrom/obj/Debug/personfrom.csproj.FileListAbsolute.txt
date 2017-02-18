@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\personfrom\bin\Debug\personfrom.exe.config
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\personfrom\bin\Debug\personfrom.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\personfrom\bin\Debug\personfrom.pdb
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\personfrom\obj\Debug\personfrom.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\personfrom\obj\Debug\personfrom.pdb
+=======
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\personfrom\bin\Debug\personfrom.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\personfrom\bin\Debug\personfrom.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\personfrom\bin\Debug\personfrom.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\personfrom\obj\Debug\personfrom.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\personfrom\obj\Debug\personfrom.pdb
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99

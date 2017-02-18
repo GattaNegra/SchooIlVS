@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.csprojResolveAssemblyReference.cache

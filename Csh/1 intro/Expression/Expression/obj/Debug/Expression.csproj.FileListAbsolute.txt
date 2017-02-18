@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\Users\gattanegra\Dropbox\School\VisualStudio\Expression\Expression\bin\Debug\Expression.exe.config
 C:\Users\gattanegra\Dropbox\School\VisualStudio\Expression\Expression\bin\Debug\Expression.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\Expression\Expression\bin\Debug\Expression.pdb
 C:\Users\gattanegra\Dropbox\School\VisualStudio\Expression\Expression\obj\Debug\Expression.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\Expression\Expression\obj\Debug\Expression.pdb
+=======
+C:\Users\gattanegra\Dropbox\School\VisualStudio\Expression\Expression\bin\Debug\Expression.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\Expression\Expression\bin\Debug\Expression.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\Expression\Expression\bin\Debug\Expression.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\Expression\Expression\obj\Debug\Expression.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\Expression\Expression\obj\Debug\Expression.pdb
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99

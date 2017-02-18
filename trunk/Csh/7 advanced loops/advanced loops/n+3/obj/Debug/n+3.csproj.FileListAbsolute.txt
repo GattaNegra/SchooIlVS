@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\n+3\bin\Debug\n+3.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\n+3\bin\Debug\n+3.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\n+3\bin\Debug\n+3.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\n+3\obj\Debug\n+3.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\n+3\obj\Debug\n+3.pdb

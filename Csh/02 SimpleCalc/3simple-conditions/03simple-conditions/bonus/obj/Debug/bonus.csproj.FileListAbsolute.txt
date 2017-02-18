@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\bonus\bin\Debug\bonus.exe.config
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\bonus\bin\Debug\bonus.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\bonus\bin\Debug\bonus.pdb
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\bonus\obj\Debug\bonus.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\bonus\obj\Debug\bonus.pdb
+=======
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\bonus\bin\Debug\bonus.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\bonus\bin\Debug\bonus.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\bonus\bin\Debug\bonus.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\bonus\obj\Debug\bonus.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\bonus\obj\Debug\bonus.pdb
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99

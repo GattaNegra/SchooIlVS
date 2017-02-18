@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\sumseconds\bin\Debug\sumseconds.exe.config
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\sumseconds\bin\Debug\sumseconds.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\sumseconds\bin\Debug\sumseconds.pdb
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\sumseconds\obj\Debug\sumseconds.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\sumseconds\obj\Debug\sumseconds.pdb
+=======
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\sumseconds\bin\Debug\sumseconds.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\sumseconds\bin\Debug\sumseconds.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\sumseconds\bin\Debug\sumseconds.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\sumseconds\obj\Debug\sumseconds.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\3simple-conditions\03simple-conditions\sumseconds\obj\Debug\sumseconds.pdb
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99

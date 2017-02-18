@@ -1,0 +1,8 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\fruitorveg\bin\Debug\fruitorveg.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\fruitorveg\bin\Debug\fruitorveg.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\fruitorveg\bin\Debug\fruitorveg.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\fruitorveg\obj\Debug\fruitorveg.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\fruitorveg\obj\Debug\fruitorveg.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\fruitorveg\bin\Debug\fruitorveg.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\fruitorveg\obj\Debug\fruitorveg.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\fruitorveg\obj\Debug\fruitorveg.pdb

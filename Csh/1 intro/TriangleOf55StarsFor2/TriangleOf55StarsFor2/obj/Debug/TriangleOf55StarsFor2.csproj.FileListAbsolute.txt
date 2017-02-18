@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsFor2\TriangleOf55StarsFor2\bin\Debug\TriangleOf55StarsFor2.exe.config
 C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsFor2\TriangleOf55StarsFor2\bin\Debug\TriangleOf55StarsFor2.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsFor2\TriangleOf55StarsFor2\bin\Debug\TriangleOf55StarsFor2.pdb
 C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsFor2\TriangleOf55StarsFor2\obj\Debug\TriangleOf55StarsFor2.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsFor2\TriangleOf55StarsFor2\obj\Debug\TriangleOf55StarsFor2.pdb
+=======
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsFor2\TriangleOf55StarsFor2\bin\Debug\TriangleOf55StarsFor2.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsFor2\TriangleOf55StarsFor2\bin\Debug\TriangleOf55StarsFor2.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsFor2\TriangleOf55StarsFor2\bin\Debug\TriangleOf55StarsFor2.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsFor2\TriangleOf55StarsFor2\obj\Debug\TriangleOf55StarsFor2.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\TriangleOf55StarsFor2\TriangleOf55StarsFor2\obj\Debug\TriangleOf55StarsFor2.pdb
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99

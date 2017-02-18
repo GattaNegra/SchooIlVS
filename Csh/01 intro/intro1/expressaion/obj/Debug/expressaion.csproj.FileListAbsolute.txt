@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\expressaion\bin\Debug\expressaion.exe.config
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\expressaion\bin\Debug\expressaion.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\expressaion\bin\Debug\expressaion.pdb
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\expressaion\obj\Debug\expressaion.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\expressaion\obj\Debug\expressaion.pdb
+=======
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\expressaion\bin\Debug\expressaion.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\expressaion\bin\Debug\expressaion.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\expressaion\bin\Debug\expressaion.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\expressaion\obj\Debug\expressaion.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\expressaion\obj\Debug\expressaion.pdb
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99

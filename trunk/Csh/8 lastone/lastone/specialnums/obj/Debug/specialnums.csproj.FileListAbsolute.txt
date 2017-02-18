@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\lastone\specialnums\bin\Debug\specialnums.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\lastone\specialnums\bin\Debug\specialnums.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\lastone\specialnums\bin\Debug\specialnums.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\lastone\specialnums\obj\Debug\specialnums.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\lastone\specialnums\obj\Debug\specialnums.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\8 lastone\lastone\specialnums\obj\Debug\specialnums.pdb

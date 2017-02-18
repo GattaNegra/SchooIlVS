@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\bin\Debug\sumator.exe.config
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\obj\Debug\sumator.csprojResolveAssemblyReference.cache
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\obj\Debug\sumator.Form1.resources
@@ -7,3 +8,14 @@ C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\bin\Debu
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\bin\Debug\sumator.pdb
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\obj\Debug\sumator.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\obj\Debug\sumator.pdb
+=======
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\bin\Debug\sumator.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\obj\Debug\sumator.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\obj\Debug\sumator.Form1.resources
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\obj\Debug\sumator.Properties.Resources.resources
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\obj\Debug\sumator.csproj.GenerateResource.Cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\bin\Debug\sumator.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\bin\Debug\sumator.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\obj\Debug\sumator.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\sumator\obj\Debug\sumator.pdb
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99

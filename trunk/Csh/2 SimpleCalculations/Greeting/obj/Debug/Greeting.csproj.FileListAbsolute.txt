@@ -1,0 +1,6 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Greeting\bin\Debug\Greeting.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Greeting\bin\Debug\Greeting.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Greeting\bin\Debug\Greeting.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Greeting\obj\Debug\Greeting.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Greeting\obj\Debug\Greeting.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\SimpleCalculations\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache

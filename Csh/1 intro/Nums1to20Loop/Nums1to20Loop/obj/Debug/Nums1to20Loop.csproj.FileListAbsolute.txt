@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\Users\gattanegra\Dropbox\School\VisualStudio\Nums1to20Loop\Nums1to20Loop\bin\Debug\Nums1to20Loop.exe.config
 C:\Users\gattanegra\Dropbox\School\VisualStudio\Nums1to20Loop\Nums1to20Loop\bin\Debug\Nums1to20Loop.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\Nums1to20Loop\Nums1to20Loop\bin\Debug\Nums1to20Loop.pdb
 C:\Users\gattanegra\Dropbox\School\VisualStudio\Nums1to20Loop\Nums1to20Loop\obj\Debug\Nums1to20Loop.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\Nums1to20Loop\Nums1to20Loop\obj\Debug\Nums1to20Loop.pdb
+=======
+C:\Users\gattanegra\Dropbox\School\VisualStudio\Nums1to20Loop\Nums1to20Loop\bin\Debug\Nums1to20Loop.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\Nums1to20Loop\Nums1to20Loop\bin\Debug\Nums1to20Loop.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\Nums1to20Loop\Nums1to20Loop\bin\Debug\Nums1to20Loop.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\Nums1to20Loop\Nums1to20Loop\obj\Debug\Nums1to20Loop.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\Nums1to20Loop\Nums1to20Loop\obj\Debug\Nums1to20Loop.pdb
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99

@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\dishes\bin\Debug\dishes.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\dishes\bin\Debug\dishes.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\dishes\bin\Debug\dishes.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\dishes\obj\Debug\dishes.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\dishes\obj\Debug\dishes.pdb

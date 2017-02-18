@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\animaltypes\bin\Debug\animaltypes.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\animaltypes\bin\Debug\animaltypes.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\animaltypes\bin\Debug\animaltypes.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\animaltypes\obj\Debug\animaltypes.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\animaltypes\obj\Debug\animaltypes.pdb

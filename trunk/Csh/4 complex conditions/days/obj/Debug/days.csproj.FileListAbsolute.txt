@@ -1,0 +1,9 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\days\bin\Debug\days.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\days\bin\Debug\days.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\days\bin\Debug\days.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\days\obj\Debug\days.csprojResolveAssemblyReference.cache
+C:\Users\gattanegra\Dropbox\School\VisualStudio\days\obj\Debug\days.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\days\obj\Debug\days.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\days\bin\Debug\days.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\days\obj\Debug\days.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\4 complex conditions\days\obj\Debug\days.pdb

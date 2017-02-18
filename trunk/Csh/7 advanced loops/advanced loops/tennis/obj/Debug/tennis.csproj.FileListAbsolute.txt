@@ -1,0 +1,5 @@
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\tennis\bin\Debug\tennis.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\tennis\bin\Debug\tennis.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\tennis\bin\Debug\tennis.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\tennis\obj\Debug\tennis.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\7 advanced loops\advanced loops\tennis\obj\Debug\tennis.pdb

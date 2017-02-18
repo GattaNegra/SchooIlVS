@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\hwlloname\bin\Debug\hwlloname.exe.config
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\hwlloname\bin\Debug\hwlloname.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\hwlloname\bin\Debug\hwlloname.pdb
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\hwlloname\obj\Debug\hwlloname.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\hwlloname\obj\Debug\hwlloname.pdb
+=======
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\hwlloname\bin\Debug\hwlloname.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\hwlloname\bin\Debug\hwlloname.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\hwlloname\bin\Debug\hwlloname.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\hwlloname\obj\Debug\hwlloname.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\hwlloname\obj\Debug\hwlloname.pdb
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99

@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\cel2far\bin\Debug\cel2far.exe.config
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\cel2far\bin\Debug\cel2far.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\cel2far\bin\Debug\cel2far.pdb
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\cel2far\obj\Debug\cel2far.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\cel2far\obj\Debug\cel2far.pdb
+=======
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\cel2far\bin\Debug\cel2far.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\cel2far\bin\Debug\cel2far.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\cel2far\bin\Debug\cel2far.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\cel2far\obj\Debug\cel2far.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\02 SimpleCalc\2simplecalc\cel2far\obj\Debug\cel2far.pdb
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99

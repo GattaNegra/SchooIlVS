@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\rectanglearea\bin\Debug\rectanglearea.exe.config
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\rectanglearea\bin\Debug\rectanglearea.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\rectanglearea\bin\Debug\rectanglearea.pdb
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\rectanglearea\obj\Debug\rectanglearea.exe
 C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\rectanglearea\obj\Debug\rectanglearea.pdb
+=======
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\rectanglearea\bin\Debug\rectanglearea.exe.config
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\rectanglearea\bin\Debug\rectanglearea.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\rectanglearea\bin\Debug\rectanglearea.pdb
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\rectanglearea\obj\Debug\rectanglearea.exe
+C:\Users\gattanegra\Dropbox\School\VisualStudio\01 intro\intro1\rectanglearea\obj\Debug\rectanglearea.pdb
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,3 +22,28 @@ namespace RectangleArea
         }
     }
 }
+=======
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RectangleArea
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var a = decimal.Parse(Console.ReadLine());
+            var b = decimal.Parse(Console.ReadLine());
+
+            // TODO: calculate the area and print it
+
+            var area = a * b;
+            Console.WriteLine(area);
+
+        }
+    }
+}
+>>>>>>> a133a25be30296e6ae9e8d9736acf3a888c9aa99
