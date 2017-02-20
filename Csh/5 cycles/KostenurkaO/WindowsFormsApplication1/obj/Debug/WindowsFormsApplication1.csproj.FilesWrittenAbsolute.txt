@@ -1,0 +1,3 @@
+/home/gattanegra/Projects/Csh/5 cycles/KostenurkaO/WindowsFormsApplication1/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/gattanegra/Projects/Csh/5 cycles/KostenurkaO/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.TurtleDrawDemo.resources
+/home/gattanegra/Projects/Csh/5 cycles/KostenurkaO/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Properties.Resources.resources

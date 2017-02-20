@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumnum", "sumnum\sumnum.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nummax", "nummax\nummax.csproj", "{D829CEF6-B700-4005-9C8D-4BE9BE20B8BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turtle", "turtle\turtle.csproj", "{E100A235-6BCC-41CE-8F7A-9FFAEE094DFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,5 +39,9 @@ Global
 		{D829CEF6-B700-4005-9C8D-4BE9BE20B8BE}.Debug|x86.Build.0 = Debug|x86
 		{D829CEF6-B700-4005-9C8D-4BE9BE20B8BE}.Release|x86.ActiveCfg = Release|x86
 		{D829CEF6-B700-4005-9C8D-4BE9BE20B8BE}.Release|x86.Build.0 = Release|x86
+		{E100A235-6BCC-41CE-8F7A-9FFAEE094DFA}.Debug|x86.ActiveCfg = Debug|x86
+		{E100A235-6BCC-41CE-8F7A-9FFAEE094DFA}.Debug|x86.Build.0 = Debug|x86
+		{E100A235-6BCC-41CE-8F7A-9FFAEE094DFA}.Release|x86.ActiveCfg = Release|x86
+		{E100A235-6BCC-41CE-8F7A-9FFAEE094DFA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
